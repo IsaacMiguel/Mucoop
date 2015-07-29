@@ -1,0 +1,32 @@
+.news {
+    width:100%;
+    
+}
+
+.news .title {
+    font-size:2em;
+    background-color:#683537;
+    padding:20px 0 20px 0;
+    font-weight: 300;
+    color:#8B94B3;
+    margin:0;
+}
+
+.news .inner {
+    display: inline-block;
+    width:50%;
+}
+
+.news .text {
+    text-align:left;
+    font-size:1.2em;
+}
+
+.news  img {
+    float: right;
+    margin-top: 20px;
+    margin-left: 10px;
+    width:320px;
+    border-radius:10px;
+}
+

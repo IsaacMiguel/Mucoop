@@ -1,0 +1,19 @@
+.profile {
+    display:inline-block;
+    color:#6C6C60;
+    margin:10px 20px 10px 20px;
+}
+
+.profile-position {
+    display:block;
+    font-size:1.2em;
+}
+
+.profile img {
+    width:150px;
+    border-radius:50%;
+}
+
+.profile-name {
+    display:block;
+}
