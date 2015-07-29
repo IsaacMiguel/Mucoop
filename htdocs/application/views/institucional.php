@@ -11,56 +11,56 @@
             <span class="title2">Consejo de Administración</span>
                 <div class="profile">
                     <span class="profile-position">Presidente</span>
-                    <img src="<?php echo base_url('img/presidente.png'); ?>"/>
+                    <img src="<?php echo base_url('img/institucional/presidente.png'); ?>"/>
                     <span class="profile-name">Ariel Foresi</span>
                 </div>
                 
                 <div class="profile">
                     <span class="profile-position">Secretario</span>
-                    <img src="img/profile.png"/>
+                    <img src="img/institucional/secretario.jpg"/>
                     <span class="profile-name">Coscia Conrado</span>
                 </div>
                 
                 <div class="profile">
                     <span class="profile-position">Tesorero</span>
-                    <img src="img/tesorero.png"/>
+                    <img src="img/institucional/tesorero.png"/>
                     <span class="profile-name">Gutierrez Raul</span>
                 </div>
             </div>
             <div class="thing big staff">
                 <div class="profile">
                     <span class="profile-position">Vocal titular 1°</span>
-                    <img src="img/profile.png"/>
+                    <img src="img/institucional/profile.png"/>
                     <span class="profile-name">Rocco Alcides</span>
                 </div>
                 
                 <div class="profile">
                     <span class="profile-position">Vocal titular 2°</span>
-                    <img src="img/profile.png"/>
+                    <img src="img/institucional/profile.png"/>
                     <span class="profile-name">Dagoberto Miguel</span>
                 </div>
                 
                 <div class="profile">
                     <span class="profile-position">Vocal titular 3°</span>
-                    <img src="img/profile.png"/>
+                    <img src="img/institucional/vocal_titular_3.jpg"/>
                     <span class="profile-name">Pierotti Sergio</span>
                 </div>
                 
                 <div class="profile">
                     <span class="profile-position">Vocal titular 4°</span>
-                    <img src="img/profile.png"/>
+                    <img src="img/institucional/vocal_titular_4.jpg"/>
                     <span class="profile-name">Gomez Miguel</span>
                 </div>
                 
                 <div class="profile">
                     <span class="profile-position">Vocal suplente 1°</span>
-                    <img src="img/profile.png"/>
+                    <img src="img/institucional/profile.png"/>
                     <span class="profile-name">Iparraguirre Jorge</span>
                 </div>
             
                 <div class="profile">
                     <span class="profile-position">Vocal suplente 2°</span>
-                    <img src="img/profile.png"/>
+                    <img src="img/institucional/profile.png"/>
                     <span class="profile-name">Rolandelli Jose Luis</span>
                 </div>
             </div>
@@ -69,25 +69,25 @@
                 <span class="title2">Junta Fiscalizadora</span>
                 <div class="profile">
                     <span class="profile-position">Fiscal titular 1°</span>
-                    <img src="img/fiscaltitular1.png"/>
+                    <img src="img/institucional/fiscal_titular_1.png"/>
                     <span class="profile-name">Cavasassi Luisa</span>
                 </div>
                 
                 <div class="profile">
                     <span class="profile-position">Fiscal titular 2°</span>
-                    <img src="img/fiscaltitular2.png"/>
+                    <img src="img/institucional/fiscal_titular_2.png"/>
                     <span class="profile-name">Pasquali Mario</span>
                 </div>
                 
                 <div class="profile">
                     <span class="profile-position">Fiscal titular 3°</span>
-                    <img src="img/profile.png"/>
+                    <img src="img/institucional/fiscal_titular_3.jpg"/>
                     <span class="profile-name">Morresi Sandra</span>
                 </div>
                 
                 <div class="profile">
                     <span class="profile-position">Fiscal suplente 1°</span>
-                    <img src="img/profile.png"/>
+                    <img src="img/institucional/profile.png"/>
                     <span class="profile-name">Lopez Nestor</span>
                 </div>
             </div>

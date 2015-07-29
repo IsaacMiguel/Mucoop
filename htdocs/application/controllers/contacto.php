@@ -23,7 +23,7 @@ class Contacto extends CI_Controller {
             redirect('/contacto');
         } else {
             $this->email->from('contact@mucoop.com.ar', $name);
-            $this->email->to('info@mucoop.com.ar'); 
+            $this->email->to('lorena.mucoop@outlook.com'); 
 
             $this->email->subject('Consulta desde mucoop.com.ar');
             $body = 'Email: '.$email.'  Telefono: '.$phone.'  Consulta:<br>'.$consult;

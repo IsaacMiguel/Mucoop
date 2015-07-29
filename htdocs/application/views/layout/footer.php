@@ -22,6 +22,10 @@
             </ul>
             
             <div class="poweredby">
+                <div>
+                    <a href="https://www.facebook.com/pages/Mucoop/246290608906253"><img class="face" src="img/logos/facebook_logo.png">
+                    <p class="face">&nbsp Mucoop</p></a>  
+                </div>
                 Powered By: <a href="http://www.LeandroDapello.com" target="_blank">www.LeandroDapello.com</a>
                 <span class="optimized">Este sitio está optimizado para Internet Explorer 10 o superior, FireFox y Google Chrome</span>
             </div>

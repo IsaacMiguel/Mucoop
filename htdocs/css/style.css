@@ -197,7 +197,9 @@ footer .poweredby .optimized {
     padding-top:20px;
 }
 
-
+footer .face{
+    display: inline-block;
+}
 
 .thing {
     min-width:480px;
