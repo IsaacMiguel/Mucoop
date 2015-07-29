@@ -154,8 +154,15 @@ footer .info .coop .bigger {
 
 footer .info .casa-central {
     list-style:none;
-    font-size:1.1em;
+    font-size:0.9em;
     display: block;
+    float: left;
+    padding-left: 8%;
+}
+
+div#info_b_r{
+    float: right;
+    padding-left: 20px;
 }
 
 footer .iva {
@@ -197,7 +204,7 @@ footer .poweredby .optimized {
     padding-top:20px;
 }
 
-footer .face{
+footer .face, .info_bloque{
     display: inline-block;
 }
 
