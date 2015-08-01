@@ -22,8 +22,8 @@ class Contacto extends CI_Controller {
             $_SESSION['error'] = 'Debe completar todos los campos';
             redirect('/contacto');
         } else {
-            $this->email->from('contact@mucoop.com.ar', $name);
-            $this->email->to('lorena.mucoop@outlook.com'); 
+            $this->email->from('', $name);
+            $this->email->to(''); 
 
             $this->email->subject('Consulta desde mucoop.com.ar');
             $body = 'Email: '.$email.'  Telefono: '.$phone.'  Consulta:<br>'.$consult;
