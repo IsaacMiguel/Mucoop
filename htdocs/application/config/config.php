@@ -224,7 +224,7 @@ $config['cache_path'] = '';
 | MUST set an encryption key.  See the user guide for info.
 |
 */
-$config['encryption_key'] = 'ritmoysustancia';
+$config['encryption_key'] = '';
 
 /*
 |--------------------------------------------------------------------------
@@ -361,4 +361,4 @@ $config['proxy_ips'] = '';
 /* End of file config.php */
 /* Location: ./application/config/config.php */
 
-define('SITE_URL','http://mucoop.com.ar/');
+define('');
